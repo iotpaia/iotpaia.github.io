@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # iotpaia.github.io
 >>>>>>> 1598497602965b7acef0c3fb72bfc7e2f11b8a6d
+=======
+# iotpaia.github.io
+
+---
+>>>>>>> 2ce343d3f96d421d91e94b365592135d06775408
